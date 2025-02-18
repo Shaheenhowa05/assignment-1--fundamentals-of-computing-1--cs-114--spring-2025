@@ -8,13 +8,13 @@ public class Assignment1 {
     // Add your code here
 
 ///Initals
-  System.out.println("SSSSS   H     H");
-  System.out.println("S       H     H");
-  System.out.println("S       H     H");
-  System.out.println(" SSSS   HHHHHHH");
-  System.out.println("     S  H     H");
-  System.out.println("     S  H     H");
-  System.out.println("SSSSS   H     H");
+  System.out.println("SSSSS   HH     HH");
+  System.out.println("SS      HH     HH");
+  System.out.println("SS      HH     HH");
+  System.out.println(" SSSS   HHHHHHHHH");
+  System.out.println("    SS  HH     HH");
+  System.out.println("    SS  HH     HH");
+  System.out.println("SSSSS   HH     HH");
 
 
 ///Temp Conversion
@@ -47,5 +47,5 @@ public class Assignment1 {
 
   System.out.println("\n Generating your random number....");
 
-//Final Output
+///Final Output
   System.out.println("\n" + celcTemp + newAnswer + num1); }}
